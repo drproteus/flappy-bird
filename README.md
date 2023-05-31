@@ -1,7 +1,5 @@
 # Flappy Bird: Windfish Edition
 
-Simple Phaser 2 demo.
-
 [Demo](https://static.skinet.org/flappy-bird)
 
 ## Building
